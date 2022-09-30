@@ -2,7 +2,6 @@ body
 {
  color:aqua;
  text-align: center;
-<<<<<<< HEAD
  font-family: Arial;
 }
 #cabecera
@@ -10,7 +9,4 @@ body
     background-color: red;
     padding: 0.5em;
     font-size: 45px;
-=======
- font-family: 'Lucida Sans';
->>>>>>> clase16
 }

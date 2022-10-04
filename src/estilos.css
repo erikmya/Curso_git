@@ -1,0 +1,12 @@
+body
+{
+ color:aqua;
+ text-align: center;
+ font-family: Arial;
+}
+#cabecera
+{
+    background-color: red;
+    padding: 0.5em;
+    font-size: 45px;
+}

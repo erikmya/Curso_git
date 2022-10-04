@@ -6,6 +6,7 @@
 - Una explicación breve de cada clase
 - Algunos comandos que se ocupan
 - Practicas que se suben a un repositorio personal
+- Incluye una biografia
 
 **Nota:** Este readme solo es para uso informativo. 💡
 
